@@ -1,0 +1,17 @@
+Preconditions:
+1. User authorized on booking.com
+2. User placed on the main booking.com page
+
+Case 1
+- Type name of the place to the 'Where are you going?' field
+- Select 'Check-in' and 'Check-out' dates for future in the 'Check-in' and 'Check-out' field
+- Select the count of Adults/Children/Rooms in the 'Adults/Children/Rooms' field
+- Select one of the provided item
+- Select room
+- Click to the Reserve button
+- Type all of needed information
+- Confirme booking of the room
+
+Results:
+1. Room is booked 
+2. There is email notification
